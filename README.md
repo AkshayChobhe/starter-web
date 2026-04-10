@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work.
 Adding a line for rebasing example, then more changes
 from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Purpose
 
@@ -21,4 +22,4 @@ for review
 
 ## Copyright
 
-2026 Git.Training.
+2026 Git.Training. All Rights Reserved.
