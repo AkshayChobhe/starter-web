@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to all who are reading this.
+    Thanks to all who are not reading this.
 
 # TECHNOLOGY COLOPHON
 
